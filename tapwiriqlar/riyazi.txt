@@ -1,0 +1,16 @@
+RIYAZI OPERATORLAR
+
++   toplama
+-   cixma 
+*   vurma
+/   bolme
+%   qaliq  
+  
+
+15%5=0
+15%7=1  
+
+qaliq emeliyyati riyaziyyatda vurma ve bolme kimi birinci hell edilir .
+toplama ve cixma dan once.
+
+12+9%4=13    9%4 qaliq 1    12+1=13

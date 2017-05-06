@@ -1,0 +1,11 @@
+wert operatorlari 
+
+>     Boyukdur
+<     Kicikdir
+==    Beraberdir
+>=    Boyuk beraberdir
+>=    Kicik beraberdir
+!     Deyil
+!=    Beraber deyil
+!>    Boyuk deyil
+!<    Kicik deyil
